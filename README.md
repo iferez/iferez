@@ -2,7 +2,7 @@
 #### Desarrollador Web
 
 #### Actualmente brindo servicio al Ministerio de Desarrollo Productivo.
-#### El repositorio laboral es privado por cuestiones de seguridad
-#### Les presento algunos de mis proyectos !
+#### Mi repositorio laboral es privado por cuestiones de seguridad
+#### De todas formas les presento algunos de mis proyectos !
 
 
